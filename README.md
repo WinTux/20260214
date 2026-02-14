@@ -1,5 +1,5 @@
 # GEMA — Asistente Educativo Modular UNIFRANZ
-
+Repositorio: https://github.com/WinTux/20260214
 ## Descripción
 GEMA (Generador Educativo Multiasistente Académico) es un asistente inteligente modular diseñado para
 ayudar a estudiantes UNIFRANZ en tareas académicas, organización de estudio, resúmenes, investigación y evaluaciones.
